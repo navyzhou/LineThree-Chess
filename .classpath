@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="calendarcombo-1.0.0.jar"/>
+	<classpathentry kind="lib" path="collapsiblebuttons-1.0.0.jar"/>
+	<classpathentry kind="lib" path="com.ibm.icu_3.8.1.v20080530.jar"/>
+	<classpathentry kind="lib" path="datechooser-1.0.0.jar"/>
+	<classpathentry kind="lib" path="gallery-0.5.2.jar"/>
+	<classpathentry kind="lib" path="log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.core.commands_3.4.0.I20080509-2000.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.core.runtime_3.4.0.v20080512.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.equinox.common_3.4.0.v20080421-2006.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.equinox.registry_3.4.0.v20080516-0950.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.jface_3.4.2.M20090107-0800.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.jface.text_3.4.2.r342_v20081119-0800.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.osgi_3.4.3.R34x_v20081215-1030.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.swt.win32.win32.x86_3.4.1.v3452b.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.text_3.4.0.v20080605-1800.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.ui.forms_3.3.103.v20081027_34x.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.ui.workbench_3.4.2.M20090127-1700.jar"/>
+	<classpathentry kind="lib" path="swing2swt.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
